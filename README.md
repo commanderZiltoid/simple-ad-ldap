@@ -1,5 +1,5 @@
 # simple-ad-ldap
-Simple php library for authenticating active directory users via ldap (currently only supports proxy bind)
+Simple php library for authenticating active directory users via ldap (currently supports proxy bind only)
 
 ### Usage
 ```php
